@@ -1,5 +1,5 @@
 site_name: Homelab IaC Docs
-site_url: https://docs.mafyuh.com
+site_url: https://mafyuh.com/iac-docs
 repo_url: https://github.com/Mafyuh/iac-wiki
 repo_name: iac-wiki
 theme:
