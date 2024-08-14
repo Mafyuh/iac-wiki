@@ -1,6 +1,6 @@
 site_name: Homelab IaC Docs
 site_url: https://mafyuh.com/iac-docs
-repo_url: https://github.com/Mafyuh/iac-wiki
+repo_url: https://github.com/Mafyuh/iac-docs
 repo_name: iac-wiki
 theme:
   name: material
